@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "p9": "tsx 9.ts",
-    "p13": "tsx 13.ts"
+    "p13": "tsx 13.ts",
+    "p14": "tsx 14.ts",
+    "p21": "tsx 21.ts"
   },
   "keywords": [],
   "author": "",
